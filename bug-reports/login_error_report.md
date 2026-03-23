@@ -15,6 +15,9 @@
 ## Gözlənilən Nəticə (Expected Result)
 Qırmızı fonda "Epic sadface: Username is required" mesajı çıxmalıdır.
 
+## Vizual Sübut (Screenshot)
+![Bug Evidence](./screenshoot.png)
+
 ## Faktiki Nəticə (Actual Result)
 Xəta sahəsi yaranır, amma mətn görünmür (invisible).
 
